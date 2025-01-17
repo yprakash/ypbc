@@ -1,2 +1,2 @@
 # ypbc
-Collection of Blockchain and Crypto and DeFi projects
+Collection of Blockchain and Crypto and DeFi projects and Ideas
