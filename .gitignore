@@ -6,6 +6,7 @@ __pypackages__/
 # Ignore sensitive data files
 .env
 .env.*
+config/
 
 # Ignore IDE specific files (e.g., PyCharm, VSCode)
 .vscode/
